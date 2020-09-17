@@ -1,5 +1,5 @@
 import requests
-from environment import *
+from environment import CONFIG
 
 class Retrieve():
   def retrieve_all(self):

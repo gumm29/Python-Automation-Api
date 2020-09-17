@@ -1,4 +1,4 @@
-from client.retrieve import *
+from client.retrieve import Retrieve
 
 @when('retrieve all products')
 def step_impl(context):
